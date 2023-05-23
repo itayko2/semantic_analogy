@@ -1,0 +1,291 @@
+{
+    "questions": [
+      {
+        "question": "Choose two words with a semantic relationship:",
+        "word_pair": "Piano : Symphony",
+        "options": [
+          {
+            "option": "Brush : Canvas",
+            "is_correct": false,
+            "explanation": "The relationship between a piano and a symphony is different from the relationship between a brush and a canvas."
+          },
+          {
+            "option": "Hammer : Nail",
+            "is_correct": false,
+            "explanation": "The relationship between a piano and a symphony is different from the relationship between a hammer and a nail."
+          },
+          {
+            "option": "Pen : Ink",
+            "is_correct": false,
+            "explanation": "The relationship between a piano and a symphony is different from the relationship between a pen and ink."
+          },
+          {
+            "option": "Guitar : Song",
+            "is_correct": true,
+            "explanation": "Just as a piano is associated with a symphony, a guitar is associated with a song as a musical instrument."
+          }
+        ]
+      },
+      {
+        "question": "Choose two words with a semantic relationship:",
+        "word_pair": "Democracy : Voting",
+        "options": [
+          {
+            "option": "Chemistry : Elements",
+            "is_correct": false,
+            "explanation": "The relationship between democracy and voting is different from the relationship between chemistry and elements."
+          },
+          {
+            "option": "History : Events",
+            "is_correct": false,
+            "explanation": "The relationship between democracy and voting is different from the relationship between history and events."
+          },
+          {
+            "option": "Mathematics : Equations",
+            "is_correct": false,
+            "explanation": "The relationship between democracy and voting is different from the relationship between mathematics and equations."
+          },
+          {
+            "option": "Biology : Cells",
+            "is_correct": true,
+            "explanation": "Just as democracy involves voting, biology involves studying cells as a fundamental unit of life."
+          }
+        ]
+      },
+      {
+        "question": "Choose two words with a semantic relationship:",
+        "word_pair": "Constellation : Astronomy",
+        "options": [
+          {
+            "option": "Sculpture : Painting",
+            "is_correct": false,
+            "explanation": "The relationship between a constellation and astronomy is different from the relationship between a sculpture and a painting."
+          },
+          {
+            "option": "Poetry : Literature",
+            "is_correct": false,
+            "explanation": "The relationship between a constellation and astronomy is different from the relationship between poetry and literature."
+          },
+          {
+            "option": "Theater : Acting",
+            "is_correct": false,
+            "explanation": "The relationship between a constellation and astronomy is different from the relationship between theater and acting."
+          },
+          {
+            "option": "Architecture : Engineering",
+            "is_correct": true,
+            "explanation": "Just as constellations are studied in astronomy, architecture involves the application of engineering principles in designing structures."
+          }
+        ]
+      },
+      {
+        "question": "Choose two words with a semantic relationship:",
+        "word_pair": "Algorithm : Complexity",
+        "options": [
+          {
+            "option": "Medicine : Disease",
+            "is_correct": false,
+            "explanation": "The relationship between an algorithm and complexity is different from the relationship between medicine and disease."
+          },
+          {
+            "option": "Language : Grammar",
+            "is_correct": false,
+            "explanation": "The relationship between an algorithm and complexity is different from the relationship between language and grammar."
+          },
+          {
+            "option": "Music : Melody",
+            "is_correct": false,
+            "explanation": "The relationship between an algorithm and complexity is different from the relationship between music and melody."
+          },
+          {
+            "option": "Science : Experiment",
+            "is_correct": true,
+            "explanation": "Just as algorithms can be complex, science involves conducting experiments to understand and explain natural phenomena."
+          }
+        ]
+      },
+      {
+        "question": "Choose two words with a semantic relationship:",
+        "word_pair": "Innovation : Creativity",
+        "options": [
+          {
+            "option": "Adventure : Risk",
+            "is_correct": false,
+            "explanation": "The relationship between innovation and creativity is different from the relationship between adventure and risk."
+          },
+          {
+            "option": "Success : Failure",
+            "is_correct": false,
+            "explanation": "The relationship between innovation and creativity is different from the relationship between success and failure."
+          },
+          {
+            "option": "Wisdom : Knowledge",
+            "is_correct": false,
+            "explanation": "The relationship between innovation and creativity is different from the relationship between wisdom and knowledge."
+          },
+          {
+            "option": "Confidence : Doubt",
+            "is_correct": true,
+            "explanation": "Just as innovation is associated with creativity, confidence is associated with the absence of doubt or uncertainty."
+          }
+        ]
+      },
+      {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Film : Director",
+      "options": [
+        {
+          "option": "Painting : Artist",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a film and a director is different from the relationship between a painting and an artist."
+        },
+        {
+          "option": "Book : Writer",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a film and a director is different from the relationship between a book and a writer."
+        },
+        {
+          "option": "Sculpture : Sculptor",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a film and a director is different from the relationship between a sculpture and a sculptor."
+        },
+        {
+          "option": "Play : Playwright",
+          "is_correct": true,
+          "explanation": "Just as a film is associated with a director, a play is associated with a playwright as the creator of the dramatic work."
+        }
+      ]
+    },
+    {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Ocean : Waves",
+      "options": [
+        {
+          "option": "Forest : Trees",
+          "is_correct": false,
+          "explanation": "The semantic relationship between an ocean and waves is different from the relationship between a forest and trees."
+        },
+        {
+          "option": "Mountain : Snow",
+          "is_correct": false,
+          "explanation": "The semantic relationship between an ocean and waves is different from the relationship between a mountain and snow."
+        },
+        {
+          "option": "Desert : Sand",
+          "is_correct": false,
+          "explanation": "The semantic relationship between an ocean and waves is different from the relationship between a desert and sand."
+        },
+        {
+          "option": "Lake : Ripples",
+          "is_correct": true,
+          "explanation": "Just as an ocean is associated with waves, a lake is associated with ripples as the small wave-like movements on the surface."
+        }
+      ]
+    },
+    {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Politics : Government",
+      "options": [
+        {
+          "option": "Economy : Money",
+          "is_correct": false,
+          "explanation": "The semantic relationship between politics and government is different from the relationship between economy and money."
+        },
+        {
+          "option": "Education : School",
+          "is_correct": false,
+          "explanation": "The semantic relationship between politics and government is different from the relationship between education and school."
+        },
+        {
+          "option": "Science : Experiment",
+          "is_correct": false,
+          "explanation": "The semantic relationship between politics and government is different from the relationship between science and experiment."
+        },
+        {
+          "option": "Law : Justice",
+          "is_correct": true,
+          "explanation": "Just as politics is associated with government, law is associated with justice as the system of rules and regulations for ensuring fairness."
+        }
+      ]
+    },
+    {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Pen : Write",
+      "options": [
+        {
+          "option": "Brush : Paint",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a pen and writing is different from the relationship between a brush and painting."
+        },
+        {
+          "option": "Knife : Cut",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a pen and writing is different from the relationship between a knife and cutting."
+        },
+        {
+          "option": "Spoon : Stir",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a pen and writing is different from the relationship between a spoon and stirring."
+        },
+        {
+          "option": "Keyboard : Type",
+          "is_correct": true,
+          "explanation": "Just as a pen is used for writing, a keyboard is used for typing as an input device for computers."
+        }
+      ]
+    },
+    {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Rain : Wet",
+      "options": [
+        {
+          "option": "Sun : Hot",
+          "is_correct": false,
+          "explanation": "The semantic relationship between rain and being wet is different from the relationship between the sun and being hot."
+        },
+        {
+          "option": "Fire : Burn",
+          "is_correct": false,
+          "explanation": "The semantic relationship between rain and being wet is different from the relationship between fire and burning."
+        },
+        {
+          "option": "Ice : Cold",
+          "is_correct": false,
+          "explanation": "The semantic relationship between rain and being wet is different from the relationship between ice and being cold."
+        },
+        {
+          "option": "Snow : White",
+          "is_correct": true,
+          "explanation": "Just as rain is associated with being wet, snow is associated with being white as frozen precipitation."
+        }
+      ]
+    },
+    {
+      "question": "Choose two words with a semantic relationship:",
+      "word_pair": "Doctor : Stethoscope",
+      "options": [
+        {
+          "option": "Chef : Oven",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a doctor and a stethoscope is different from the relationship between a chef and an oven."
+        },
+        {
+          "option": "Musician : Guitar",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a doctor and a stethoscope is different from the relationship between a musician and a guitar."
+        },
+        {
+          "option": "Teacher : Chalkboard",
+          "is_correct": false,
+          "explanation": "The semantic relationship between a doctor and a stethoscope is different from the relationship between a teacher and a chalkboard."
+        },
+        {
+          "option": "Photographer : Camera",
+          "is_correct": true,
+          "explanation": "Just as a doctor uses a stethoscope, a photographer uses a camera as a tool of their profession."
+        }
+      ]
+    }
+  ]
+}
+  
